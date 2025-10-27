@@ -10,7 +10,7 @@
 | 김지수 | 김태헌 | 박순영 | 정다영 | 황인찬 |
 | :---: | :---: | :---: | :---: | :---: |
 | CTO, BE, Infra | PM, BE, Infra | FE Leader | BE Leader, FE | Infra Leader |
-| <img src="https://avatars.githubusercontent.com/u/86948824?v=4" alt="김지수 프로필" width="180" height="180"> | <img src="" alt="김태헌 프로필" width="180" height="180"> | <img src="https://github.com/user-attachments/assets/45378bbd-5412-4e92-a6ae-cf280da0b66d" alt="박순영 프로필" width="195" height="195"> | <img src="" t="정다영 프로필" width="180" height="180"> |  <img src="" t="황인찬 프로필" width="180" height="180"> |
+| <img src="https://avatars.githubusercontent.com/u/86948824?v=4" alt="김지수 프로필" width="180" height="180"> | <img src="" alt="김태헌 프로필" width="180" height="180"> | <img src="https://github.com/user-attachments/assets/45378bbd-5412-4e92-a6ae-cf280da0b66d" alt="박순영 프로필" width="180" height="180"> | <img src="" t="정다영 프로필" width="180" height="180"> |  <img src="" t="황인찬 프로필" width="180" height="180"> |
 | [Jixoo-IT](https://github.com/Jixoo-IT) | [](https://github.com/) | [ruluralaa](https://github.com/ruluralaa) | [](https://github.com/) | [](https://github.com/) |
 
 3232
