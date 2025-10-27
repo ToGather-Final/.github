@@ -9,8 +9,8 @@
 ### Team Member
 | 김지수 | 김태헌 | 박순영 | 정다영 | 황인찬 |
 | :---: | :---: | :---: | :---: | :---: |
-| CTO, BE, Infra | PM, BE, Infra | FE Leader | BE Leader, FE | Infra Leader |
-| <img src="https://avatars.githubusercontent.com/u/86948824?v=4" alt="김지수 프로필" width="180" height="180"> | <img src="" alt="김태헌 프로필" width="180" height="180"> | <img src="https://github.com/user-attachments/assets/3d86e3a4-f9c6-46cb-95fb-26c6062a7b1c" alt="박순영 프로필" width="180" height="180"> | <img src="" t="정다영 프로필" width="180" height="180"> |  <img src="" t="황인찬 프로필" width="180" height="180"> |
+| CTO, BE | PM, BE | FE Leader | BE Leader, FE | Infra Leader |
+| <img src="https://avatars.githubusercontent.com/u/86948824?v=4" alt="김지수 프로필" width="180" height="180"> | <img src="https://github.com/user-attachments/assets/9e55c2ae-6712-4763-bae8-e9e915847b28" alt="김태헌 프로필" width="180" height="180"> | <img src="https://github.com/user-attachments/assets/3d86e3a4-f9c6-46cb-95fb-26c6062a7b1c" alt="박순영 프로필" width="180" height="180"> | <img src="https://github.com/user-attachments/assets/93cdc7bc-03af-4cdc-9cf6-87e6fdc67dfa" t="정다영 프로필" width="180" height="180"> |  <img src="https://github.com/user-attachments/assets/0252a40b-0288-45ca-afc5-cbe840f88e4f" t="황인찬 프로필" width="180" height="180"> |
 | [Jixoo-IT](https://github.com/Jixoo-IT) | [slay1379](https://github.com/slay1379) | [ruluralaa](https://github.com/ruluralaa) | [Dayoung331](https://github.com/Dayoung331) | [klklgooa](https://github.com/klklgooa) |
 
 ### 개발 기간
@@ -44,21 +44,21 @@
 ---
 
 #### 💹 주식 정보
-| 주식 리스트 | 주가 정보1 | 주가 정보2 |
+| 주식 리스트 | 주가 정보 | 캔들 차트 |
 |:---------:|:---------:|:---------:|
 | <img src="https://github.com/user-attachments/assets/eec7df69-2188-4cea-91c1-c07236db593c" width="250"> | <img src="https://github.com/user-attachments/assets/8b8d752b-bbf3-464f-b5fc-533244ad8fcc" width="250"> | <img src="https://github.com/user-attachments/assets/82bd9c33-3b1c-4346-ba2f-012873656714" width="250"> |
 
 ---
 
 #### 💰 매수/매도
-| 매수창 (호가창1) | 매수 가격 조정 |
+| 매수 호가 | 매수 주문 |
 |:---------:|:---------:|
 | <img src="https://github.com/user-attachments/assets/bb287d90-d62b-4f74-866e-4aba46805484" width="250"> | <img src="https://github.com/user-attachments/assets/fa52e391-76fb-43f4-993d-583cde2ee74f" width="250"> |
 
-| 매도창 (호가창2) | 매도 가격 조정 |
+| 매도 호가 | 매도 주문 |
 |:---------:|:---------:|
-| <img src="https://github.com/user-attachments/assets/NEW_IMAGE_LINK_HERE" width="250"> | <img src="https://github.com/user-attachments/assets/99e57c7c-dea6-432a-9bde-a3d7d3d41a4e" width="250"> |
-
+| <img src="https://github.com/user-attachments/assets/abd8692a-6094-4c9e-a0ee-9a83cb59b035" width="250"> | <img src="https://github.com/user-attachments/assets/99e57c7c-dea6-432a-9bde-a3d7d3d41a4e" width="250"> 
+|
 
 ---
 
