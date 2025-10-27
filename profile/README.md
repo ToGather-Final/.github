@@ -39,7 +39,7 @@
 
 | 투자 계좌 개설 | 그룹 생성 |
 |:---------:|:---------:|
-| <img src="" width="250"> | <img src="" width="250"> |
+| <img src="https://github.com/user-attachments/assets/b7dda7a2-70db-4b7b-8bfd-a483210d102f" width="250"> | <img src="" width="250"> |
 | 포트폴리오1 | 포트폴리오2 |
 | <img src="" width="250"> | <img src="" width="250"> |
 | 주식 리스트 | 주가 정보1 |
